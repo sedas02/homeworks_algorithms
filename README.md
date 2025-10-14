@@ -1,1 +1,1 @@
-# homeworks_algorithms
+# Homeworks: algorithms and data structures
